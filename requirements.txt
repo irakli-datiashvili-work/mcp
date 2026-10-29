@@ -1,0 +1,6 @@
+# Pinned below 2.0 on purpose: the Academy course is written against the 1.x SDK
+# (mcp.server.fastmcp.FastMCP). Version 2 renamed several things.
+mcp[cli]>=1.30,<2
+anthropic>=2
+python-dotenv
+prompt-toolkit
